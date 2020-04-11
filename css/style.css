@@ -12,10 +12,6 @@ body [class*="col-"] {
   height: auto;
   width: auto;
 }
-container [class*=col-]{
-  border: 1px solid black;
-  border-radius: 3px;
-}
 
 /* Left Side */
 
