@@ -1,8 +1,5 @@
 /* Main */
 
-body {
-
-}
 body [class*="col-"] {
   text-align: center;
   font-family: 'Open Sans', sans-serif, Arial, Helvetica;
@@ -61,9 +58,6 @@ container [class*=col-]{
 .link_decoration {
   color: white;
 }
-.text_about {
-
-}
 .pics_leisure {
   margin-top: 15px;
   margin-bottom: 25px;
@@ -74,24 +68,9 @@ container [class*=col-]{
   padding-top: 15px;
   padding-bottom: 10px;
 }
-.fa-music {
-
-}
-.fa-futbol {
-
-}
-.fa-laptop-code {
-
-}
 
 /* Right Side */
 
-.right_side {
-
-}
-.principal_title {
-  
-}
 .principal_title_name {
   color: #575C5C;
 
