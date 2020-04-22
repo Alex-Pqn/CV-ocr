@@ -12,6 +12,10 @@ body [class*="col-"] {
   height: auto;
   width: auto;
 }
+container [class*=col-]{
+  border: 1px solid black;
+  border-radius: 3px;
+}
 
 /* Left Side */
 
@@ -44,7 +48,7 @@ body [class*="col-"] {
 .texts_left_side {
   color: white;
 
-  text-align: start;
+  text-align: justify;
   margin-top: 22px;
   margin-left: 20px;
 }
