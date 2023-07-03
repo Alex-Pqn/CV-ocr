@@ -6,4 +6,8 @@
 - Respect de la sémantique et utilisation des balises HTML5
 - Responsive
 
-![](/assets/CV.png)
+---
+
+![CV](/assets/CV.png)
+
+![CV Responsive](/assets/CV%20Responsive.png)
