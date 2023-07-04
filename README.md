@@ -9,5 +9,8 @@
 ---
 
 ![CV](/assets/CV.png)
-
+<br/>
+<br/>
+<br/>
+<br/>
 ![CV Responsive](/assets/CV%20Responsive.png)
