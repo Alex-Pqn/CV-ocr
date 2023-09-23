@@ -15,6 +15,14 @@
 
 ---
 
+### Start App
+
+Open the [index.html](/index.html) file in your browser or use an extension to start a local server on this file.
+
+> A [Github Pages preview](https://alex-pqn.github.io/CV-ocr_dw/) is also available for this project
+
+---
+
 ### Preview
 
 ![CV](/assets/CV.png)
