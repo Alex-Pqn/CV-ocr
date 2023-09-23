@@ -11,7 +11,7 @@
 - Respect de la sémantique et utilisation des balises HTML5
 - Responsive
 
-### [Prévisualisation du site](https://alex-pqn.github.io/CV-ocr_dw/)
+### [Prévisualisation du site](https://alex-pqn.github.io/CV2020-ocr_dw/)
 
 ---
 
@@ -19,7 +19,7 @@
 
 Open the [index.html](/index.html) file in your browser or use an extension to start a local server on this file.
 
-> A [Github Pages preview](https://alex-pqn.github.io/CV-ocr_dw/) is also available for this project
+> A [Github Pages preview](https://alex-pqn.github.io/CV2020-ocr_dw/) is also available for this project
 
 ---
 
