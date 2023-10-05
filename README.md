@@ -13,16 +13,12 @@
 
 ### [Prévisualisation du site](https://alex-pqn.github.io/CV2020-ocr_dw/)
 
----
-
-### Start App
+## Start App
 
 Clone the project then open the [index.html](/index.html) file in your browser or use an extension to start a local server on this file.
 
 > A [Github Pages preview](https://alex-pqn.github.io/CV2020-ocr_dw/) is also available for this project
 
----
-
-### Preview
+## Preview
 
 ![CV](/assets/CV.png)
