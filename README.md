@@ -4,7 +4,7 @@
 
 #### Le contenu du CV a été partiellement inventé dans le but de l'exercice
 
-#### Objectifs
+#### Objectifs réalisés
 
 - Création d'un CV en HTML5/CSS3
 - Utilisation de Bootstrap
